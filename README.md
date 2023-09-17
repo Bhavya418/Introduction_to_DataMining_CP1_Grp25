@@ -64,5 +64,6 @@
 > 5. XGB Booster 
 
 > - We even did some feature engineering and optimization techniques where we tried considering the weather, trained the model and obtained a good RMSE score, absolute error and accuracy.
+> - We tried to plot the feature importance and found out that distance is the most important feature for estimating duration.
 
 
