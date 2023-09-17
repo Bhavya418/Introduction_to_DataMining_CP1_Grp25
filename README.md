@@ -53,9 +53,8 @@
 > - We performed two data transformation techniques :
 >   1. Standardization using z-score
 >   2. Normalization using min-max score
->      
-> Then as the dataset has been transformed and the unwanted features have been removed, we decided that we would predict the duration of the trip as that would benefit the bike rental about 
-
+    
+> Then as the dataset has been transformed and the unwanted features have been removed, we decided that we would predict the duration of  the trip as that would benefit the bike rental about how to efficiently plan the providing their rides and charge accordingly.
 > Different Models that we trained
 > 1. Linear Regression
 > 2. Polynomial Regression
