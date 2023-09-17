@@ -31,7 +31,7 @@
 
 ## Exploratory Data Analysis
 > First of all, we plotted violin plots to understand the distribution of the features.
-> Then we plotted different plots to understand the relationship between different features such as linear relationship which features are more important than others.
+> Then we plotted different plots to understand the relationship between different features such as linear relationships which features are more important than others.
 > - The plots for the following can be found in the file.
 > - Certain important plots:
 >  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/a643d71b-88a0-4fbb-a21c-b4688c8687e3)
@@ -48,9 +48,15 @@
 >   1. Standardization using z-score
 >   2. Normalization using min-max score
 >      
-> Then as the 
+> Then as the dataset has been transformed and the unwanted features have been removed, we decided that we would predict the duration of the trip as that would benefit the bike rental about 
 
+> Different Models that we trained
+> 1. Linear Regression
+> 2. Polynomial Regression
+> 3. Random Forest Regressor
+> 4. Gradient Boosting Linear Regression
+> 5. XGB Booster 
 
-
+> - We even did some feature engineering and optimization techniques where we tried considering the weather, trained the model and obtained a good RMSE score, absolute error and accuracy.
 
 
