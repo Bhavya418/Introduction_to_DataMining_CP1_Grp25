@@ -6,7 +6,7 @@
 
 ## Introduction
 
-> There are 1284153 data instances and 26 features.
+> There are 9.7 Million data instances and 26 features.
 > The Data used include trip duration, trip distance, pickup-dropoff latitude and longitude, temperature, precipitation, wind speed, humidity, solar radiation, snowfall, ground temperature and 1-hour average dust concentration.
 > 1. **Trip Duration**: It represents the duration of a bike trip in some unit of time, such as minutes or seconds.
 > 1. **Trip Distance**: The distance covered during the bike trip, typically measured in kilometres or miles. This feature can help in understanding how to trip duration relates to the distance traveled.
