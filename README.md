@@ -25,8 +25,10 @@
 > - The second step is to remove the outliers from the dataset which are important and possibly have unwanted instances.
 > - The third step is to remove the correlated features by plotting the heatmap and removing the features with a correlation greater than 80%.
 >   
->  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/cd587521-cda6-4766-9cfd-00e3de4d7b7e)
-> ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/aea6e514-a46b-4993-ae08-d4bc6d92e1ad)
+>  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/36809aac-99d4-4141-8e2c-0b70c0a90bb7)
+
+> ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/5f421047-9ee2-461b-9b44-8359c7bcc326)
+
 
 
 ## Exploratory Data Analysis
@@ -34,13 +36,17 @@
 > Then we plotted different plots to understand the relationship between different features such as linear relationships which features are more important than others.
 > - The plots for the following can be found in the file.
 > - Certain important plots:
->  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/a643d71b-88a0-4fbb-a21c-b4688c8687e3)
 
->  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/d5c8e1aa-c09b-456e-adae-d6e7edf57b16)
+>  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/5330fd05-90dd-4e0a-8f83-07401872df7c)
+  
+>  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/0b1ea625-affc-483b-b367-739075a63e0e)
 
->  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/c891bf68-34e4-4cbb-b593-0c5715aa6d73)
+>  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/f1b801dd-32bd-4a7f-bda9-e5bfcfc8bd4c)
 
->  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/6fea5837-4479-4875-9c62-b7ede8f6826a)
+>  ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/ce62e1f7-f671-475e-b467-b2e9a029db03)
+
+> ![image](https://github.com/Bhavya418/Introduction_to_DataMining_CP1_Grp25/assets/85784299/939063f4-f853-472f-ab85-36c8e502e122)
+
   
 ## Machine Learning and Data Transformations
 
