@@ -54,7 +54,7 @@
 >   1. Standardization using z-score
 >   2. Normalization using min-max score
 >      
-> Then as the dataset has been transformed and the unwanted features have been removed, we decided that we would predict the duration of the trip as that would benefit the bike rental about how to efficiently plan providing their rides and charge accordingly. What rental companies will do is, they will have charges according to the duraetion it takes, the only thing the customer has to enter is the pick-up place and time along with destination place and time, other features act as per the situation and thus giving proper pricing.
+> Then as the dataset has been transformed and the unwanted features have been removed, we decided that we would predict the duration of the trip as that would benefit the bike rental about how to efficiently plan to provide their rides and charge accordingly. What rental companies will do is, they will have charges according to the duration it takes, the only thing the customer has to enter is the pick-up place and time along with the destination place and time, other features act as per the situation and thus give proper pricing.
 
 > Different Models that we trained
 > 1. Linear Regression
@@ -65,5 +65,6 @@
 
 > - We even did some feature engineering and optimization techniques where we tried considering the weather, trained the model and obtained a good RMSE score, absolute error and accuracy.
 > - We tried to plot the feature importance and found out that distance is the most important feature for estimating duration.
+> - We found out that random forest regressor is the best and we implemented the ML pipeline on that.
 
 
